@@ -205,3 +205,114 @@ table {
 .background_contact {
     background-color: darkgrey;
 }
+.vignette2 {
+    display: block;
+    margin-left: 1%;
+    margin-right: 70%;
+    margin-top: 3%;
+    height: 120px;
+    background-color: #343a40;
+    border-radius: 15px;
+    box-shadow: 2px 5px 12px 7px rgb(16 16 16 / 45%);
+}
+.espace2_color {
+    text-indent: 1%;
+    line-height: 2em;
+    margin-bottom: 2em;
+    color: white;
+}
+.espace_color {
+    text-indent: 1%;
+    line-height: 2em;
+    color:white;
+}
+.vignette3 {
+    display: block;
+    margin-left: 1%;
+    margin-right: 70%;
+    margin-top: 3%;
+    height: 210px;
+    background-color: #343a40;
+    border-radius: 15px;
+    box-shadow: 2px 5px 12px 7px rgb(16 16 16 / 45%);
+}
+.vignette4 {
+    display: block;
+    margin-left: 1%;
+    margin-right: 70%;
+    margin-top: 3%;
+    height: 150px;
+    background-color: #343a40;
+    border-radius: 15px;
+    box-shadow: 2px 5px 12px 7px rgb(16 16 16 / 45%);
+}
+.vignette5 {
+    display: block;
+    margin-left: 1%;
+    margin-right: 70%;
+    margin-top: 3%;
+    height: 250px;
+    background-color: #343a40;
+    border-radius: 15px;
+    box-shadow: 2px 5px 12px 7px rgb(16 16 16 / 45%);
+}
+.vignette6 {
+    display: block;
+    margin-left: 1%;
+    margin-right: 70%;
+    margin-top: 3%;
+    height: 310px;
+    background-color: #343a40;
+    border-radius: 15px;
+    box-shadow: 2px 5px 12px 7px rgb(16 16 16 / 45%);
+}
+.vignette7 {
+    display: block;
+    margin-left: 1%;
+    margin-right: 70%;
+    margin-top: 3%;
+    height: 280px;
+    background-color: #343a40;
+    border-radius: 15px;
+    box-shadow: 2px 5px 12px 7px rgb(16 16 16 / 45%);
+}
+.vignette8 {
+    display: block;
+    margin-left: 1%;
+    margin-right: 70%;
+    margin-top: 3%;
+    height: 340px;
+    background-color: #343a40;
+    border-radius: 15px;
+    box-shadow: 2px 5px 12px 7px rgb(16 16 16 / 45%);
+}
+.vignette9 {
+    display: block;
+    margin-left: 1%;
+    margin-right: 70%;
+    margin-top: 3%;
+    height: 440px;
+    background-color: #343a40;
+    border-radius: 15px;
+    box-shadow: 2px 5px 12px 7px rgb(16 16 16 / 45%);
+}
+.vignette10 {
+    display: block;
+    margin-left: 1%;
+    margin-right: 70%;
+    margin-top: 3%;
+    height: 180px;
+    background-color: #343a40;
+    border-radius: 15px;
+    box-shadow: 2px 5px 12px 7px rgb(16 16 16 / 45%);
+}
+.vignette_tab {
+    display: block;
+    margin-left: 1%;
+    margin-right: 39%;
+    margin-top: 3%;
+    height: 250px;
+    background-color: #343a40;
+    border-radius: 15px;
+    box-shadow: 2px 5px 12px 7px rgb(16 16 16 / 45%);
+}
